@@ -8,6 +8,7 @@ I'm currently learning:
  - [x] Maven
  - [x] JUnit
  - [x] Mockito
+ - [x] REST API 
 - [x] SQL
 - [x] HTML
 - [x] PYTHON
