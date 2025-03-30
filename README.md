@@ -6,7 +6,7 @@ I'm currently learning:
 
  - [x] Java
  - [x] Gradle
- - [x] SQL
+ - [x] MySQL
  - [x] Git
  - [x] REST API 
 - [x] Spring
