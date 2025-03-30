@@ -5,16 +5,16 @@
 I'm currently learning:
 
  - [x] Java
- - [x] Maven
- - [x] JUnit
- - [x] Mockito
+ - [x] Gradle
+ - [x] SQL
+ - [x] Git
  - [x] REST API 
-- [x] SQL
-- [x] HTML
-- [x] PYTHON
-- [x] CSS
-- [x] Git
-- [x] Docker
+- [x] Spring
+- [x] Spring WEB
+- [x] Hibernate
+- [x] Lombok
+- [x] JUnit
+- [x] Mockito
 
 <!--
 **Romano44e/Romano44e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
